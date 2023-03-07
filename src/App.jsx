@@ -1,4 +1,4 @@
-//credit: https://jsmastery.pro
+//credit_to_idea: https://jsmastery.pro
 
 import { BrowserRouter } from "react-router-dom";
 
