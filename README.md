@@ -6,6 +6,3 @@ Utilized tools:
 - React Three Fiber - library for creating 3D graphics with ThreeJS in React
 - TailwindCSS - utility-first CSS styling framework
 - Framer Motion - library used to bring your React website to life with animations
-
-## Credits to idea
-https://jsmastery.pro
