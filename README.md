@@ -1,5 +1,5 @@
 # React base Portfolio
-Website Link: https://mrsamsonn.github.io/react_Portfolio/
+Website Link: https://mrsamsonn.github.io/Portfolio/
 ![3D Portfolio](https://i.ibb.co/hs7jbpF/website-portfolio.png)
 
 Utilized tools:
