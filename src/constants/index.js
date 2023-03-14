@@ -133,9 +133,10 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2022 - Present",
     points: [
-      "Diagnose and perform proper restoration to computer hardware.",
-      "Configure and set up computer hardware and software.",
-      "Assess and record configuration and restorations performed into the Revivn system.",
+      "Diagnose and perform logicboard/components restoration to computer hardware.",
+      "Configure hardware and software to manufacturing standards",
+      "Process bookkeeping diagnosis to each device into the server",
+      "Utilize low-level BASH scripting to further improve processing.",
     ],
   },
   {
