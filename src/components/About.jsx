@@ -48,20 +48,12 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         I am a current student at California State University, East Bay with 
-        a strong foundation in C++, Python, HTML, CSS, JS, React, Vite, and Bash shell, 
-        as well as Beaglebone, Arduino, and Rasberry Pi builds, I am eager to bring my skills
-        and passion to the software industry and hardware industry.
+        a strong foundation in high and low level programming
+        as well as microcontroller and microcomputer builds.
         <br/>
-        I have gained practical experience through various projects, 
-        including Reddit sentiment analysis for cryptocurrency and stock price action, 
-        hardware data retrieval, API integration using bash scripting, and other projects. 
-        These projects have allowed me to apply my knowledge of programming and scripting to
-         real-world scenarios and to develop my problem-solving skills.
-         <br/>
-        I am a fast learner, highly motivated, and passionate about technology. 
-        I am constantly seeking new challenges and opportunities to grow and expand my skills. 
-        I am confident that I can make a positive contribution to your team and help drive your
-         company's success.
+        <br/>
+        I am eager to bring my skills
+        and passion to the software industry and hardware industry.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
