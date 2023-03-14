@@ -45,6 +45,7 @@ import reddit_prj from "./reddit.png";
 import drone from "./drone.png";
 import thinksoft from "./thinksoft.png";
 import lstm from "./lstm.png";
+import git_repos from "./repos.png";
 
 export {
   logo,
@@ -91,4 +92,5 @@ export {
   drone,
   thinksoft,
   lstm,
+  git_repos,
 };

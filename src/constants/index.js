@@ -39,6 +39,7 @@ import {
   drone,
   thinksoft,
   lstm,
+  git_repos,
 } from "../assets";
 
 export const navLinks = [
@@ -306,6 +307,27 @@ const projects = [
     ],
     image: lstm,
     source_code_link: "https://github.com/mrsamsonn/LTSM_Crypto",
+  },
+  {
+    name: "Other Github Repositories",
+    description:
+      "",
+    tags: [
+      // {
+      //   name: "python",
+      //   color: "blue-text-gradient",
+      // },
+      // {
+      //   name: "machine-learning",
+      //   color: "green-text-gradient",
+      // },
+      // {
+      //   name: "tensorflow",
+      //   color: "pink-text-gradient",
+      // },
+    ],
+    image: git_repos,
+    source_code_link: "https://github.com/mrsamsonn?tab=repositories",
   },
 ];
 
