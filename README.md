@@ -8,9 +8,3 @@ Utilized tools:
 - TailwindCSS - utility-first CSS styling framework
 - Framer Motion - library used to bring your React website to life with animations
 
---------------------------
-Commit and push page:
-`npm run build`,
-`git add dist -f`,
-`git commit -m [your commit message here]`,
-`git subtree push --prefix dist origin gh-pages`,
