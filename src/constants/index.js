@@ -17,6 +17,7 @@ import {
   figma,
   docker,
   cpp,
+  mips,
   python,
   bash,
   latex,
@@ -90,6 +91,10 @@ const technologies = [
   {
     name: "Python",
     icon: python,
+  },
+  {
+    name: "Mips",
+    icon: mips,
   },
   {
     name: "Tensor",

@@ -25,6 +25,7 @@ import python from "./tech/python.png";
 import bash from "./tech/bash.png";
 import latex from "./tech/latex.png";
 import tensor from "./tech/tensor.png";
+import mips from "./tech/mips.png"
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -71,6 +72,7 @@ export {
   cpp,
   python,
   bash,
+  mips,
   latex,
   meta,
   shopify,
