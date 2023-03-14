@@ -48,8 +48,7 @@ const About = () => {
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
         Currently a student at California State University, East Bay with 
-        a strong foundation in high and low level programming
-        as well as microcontroller and microcomputer builds.
+        a strong foundation in <b>high-level/low-level programming</b> as well as <b>microcontroller/microcomputer builds</b>.
         <br/>
         <br/>
         I am eager to bring my skills
