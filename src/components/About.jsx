@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I am a current student at California State University, East Bay with 
+        Currently a student at California State University, East Bay with 
         a strong foundation in high and low level programming
         as well as microcontroller and microcomputer builds.
         <br/>
