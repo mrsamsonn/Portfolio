@@ -20,14 +20,14 @@ const Hero = () => {
           </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I develop c++, python, web<br className='sm:block hidden' />
-            soft and hard
+            < p className={'${styles.heroSubText} mt-2 text-white-100'}>"soft and hard"</p>
           </p>
         </div>
       </div>
 
       <ComputersCanvas />
 
-      <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
+      <div className='absolute xs:bottom-0 bottom-32 w-full flex justify-center items-center'>
         <a href='#about'>
           <div className='w-[35px] h-[64px] rounded-3xl border-4 border-secondary flex justify-center items-start p-2'>
             <motion.div
@@ -35,7 +35,7 @@ const Hero = () => {
                 y: [0, 24, 0],
               }}
               transition={{
-                duration: 1.5,
+                duration: 0.75,
                 repeat: Infinity,
                 repeatType: "loop",
               }}
