@@ -1,11 +1,11 @@
 Model Information:
-* title:	S**t happens
-* source:	https://sketchfab.com/3d-models/st-happens-9df0cb94b17a4221bd48ba9d8f225b11
-* author:	Loïc Norgeot (https://sketchfab.com/norgeotloic)
+* title:	EGG
+* source:	https://sketchfab.com/3d-models/egg-d794569290fc4f0d98e577f9d5ae77df
+* author:	Tatiana_Lytvyn (https://sketchfab.com/Tatiana_Lytvyn)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "S**t happens" (https://sketchfab.com/3d-models/st-happens-9df0cb94b17a4221bd48ba9d8f225b11) by Loïc Norgeot (https://sketchfab.com/norgeotloic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "EGG" (https://sketchfab.com/3d-models/egg-d794569290fc4f0d98e577f9d5ae77df) by Tatiana_Lytvyn (https://sketchfab.com/Tatiana_Lytvyn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
